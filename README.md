@@ -66,17 +66,22 @@ O algoritmo de agendamento Shortest Job First (SJF) seleciona o processo com o m
 
 Shortest Job First é o acrônimo para esse conceito.
 
+![image](https://github.com/nervaljunior/sjf-pandas/assets/108685222/58e53bbc-107f-4d98-b980-2970a4b348f8)
 ## As abordagens SJF geralmente se enquadram em uma das duas categorias:
 
 ### SJF sem preempção 
 No escalonamento não preemptivo , o processo retém o ciclo da CPU uma vez atribuído a ele até que entre em um estado de espera ou seja eliminado .
 
+![image](https://github.com/nervaljunior/sjf-pandas/assets/108685222/8b6edd39-2127-4400-829d-d003f3d52638)
 ### Um SJF proativo 
 Os trabalhos são inseridos na fila de prontos à medida que são recebidos no agendamento SJF preemptivo .  O processo com o menor tempo de rajada começa a correr.  O processo atual é encerrado ou impedido de continuar se um com um tempo de rajada menor entrar nosistema, e o trabalho mais curto recebe um ciclo de CPU .
 
+
+![image](https://github.com/nervaljunior/sjf-pandas/assets/108685222/98f78173-4fdd-4227-b4d4-6b873d0c2acd)
 ## Pilha 
 de tecnologia usada Escolhi utilizar um notebook no jupyter criado com python para ilustrar o procedimento  de agendamento.
 
+![Imagem do WhatsApp de 2023-05-29 à(s) 10 16 02](https://github.com/nervaljunior/sjf-pandas/assets/108685222/0af87587-5585-4a4a-9ed8-6157a9b2524a)
 
 
 ### Happy Coding!.
